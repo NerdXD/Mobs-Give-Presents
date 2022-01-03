@@ -1,0 +1,10 @@
+name: MobPresents
+version: 1.0
+main: com.nerdxd.plugin.presents.Main
+api-version: 1.17
+authors: [ NerdXD ]
+description: When mobs attack you they will give you presents (if you are nice)
+commands:
+  MobPresents:
+    aliases: [mp]
+    description: Activates the plugin
