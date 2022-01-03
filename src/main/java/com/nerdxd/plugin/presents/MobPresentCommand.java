@@ -15,9 +15,9 @@ import java.util.Random;
 
 public class MobPresentCommand implements CommandExecutor, Listener {
 
-    Material[] mats = Material.values();
+    private Material[] mats = Material.values();
 
-    Random ran = new Random();
+    private Random ran = new Random();
 
 
     @Override
